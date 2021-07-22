@@ -2,10 +2,7 @@
 - 👀 I have an interest in front-end development. I do some practical exercises on HTML5, CSS3, JAVASCRIPT. The library I used to build front-end designs is Reacter JS. 
      My first priority as a front-end developer is to make a completely responsive design. Another top priority is Client satisfaction.
 - 🌱 Ask me about React JS, Javascript, and my project on maryamtufail279@gmail.com
-- 📫 You can approach me at:
-- Faceook: fb.com/maryam2506
-- Gmail: maryamtufail279@gmail.com
-Linkdin: https://www.linkedin.com/in/maryamtufail
+- 📫 You can approach me at: Faceook: fb.com/maryam2506 Gmail: maryamtufail279@gmail.com Linkdin: https://www.linkedin.com/in/maryamtufail
 
 
 <!---
