@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maryam2506. Bachelor's in computer science
-- 👀 I have an interest in front-end development. I do some practical exercises on HTML5, CSS3, JAVASCRIPT. The library I used to build front-end designs is Reacter JS. 
-     My first priority as a front-end developer is to make a completely responsive design. Another top priority is Client satisfaction.
-- 🌱 Ask me about React JS, Javascript, and my project on maryamtufail279@gmail.com
+- 👋 Hi, I’m @Maryam2506. Bachelor's in Computer Science
+- 👀 I have an interest in Front-End Development. I do some practical exercises on HTML, CSS, JAVASCRIPT and jQUERY. My most commonly used JavaScript library is React JS.  
+     My first priority as a front-end developer is to make a completely responsive design. Frame work for UI design i used are Bootstrap and Material UI. 
+- 🌱 Ask me about React JS, Javascript, UI Library and My Projects on maryamtufail279@gmail.com
 - 📫 You can approach me at: Faceook: fb.com/maryam2506 Gmail: maryamtufail279@gmail.com Linkdin: https://www.linkedin.com/in/maryamtufail
 
 
