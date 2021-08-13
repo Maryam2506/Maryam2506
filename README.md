@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maryam2506. Bachelor's in Computer Science. 
+- 👋 Hi, I’m @Maryam2506. Bachelor's in Information Technology. 
 - 👀 I have an interest in Front-End Development. I do some practical exercises on HTML, CSS, JAVASCRIPT and jQUERY. My most commonly used JavaScript library is React JS.  
      My first priority as a front-end developer is to make a completely responsive design. Frame work for UI design i used are Bootstrap and Material UI. 
 - 🌱 Ask me about React JS, Javascript, UI Library and My Projects on maryamtufail279@gmail.com
