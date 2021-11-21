@@ -8,20 +8,15 @@
 
 - 👋 Student of Bachelor's in Information Technology. 
 - 👀 I’m currently working on something cool 😉. 
-- I have an interest in Front-End Development. I do some practical exercises on HTML, CSS, JAVASCRIPT and jQUERY. My most commonly used JavaScript library is React JS.  
-     My first priority as a front-end developer is to make a completely responsive design. Frame work for UI design i used are Bootstrap and Material UI. 
+- I have an interest in Front-End Development. I do some practical exercises on HTML, CSS, JAVASCRIPT and jQUERY. My most commonly used JavaScript library is React JS. My first priority as a front-end developer is to make a completely responsive design. UI design made responsive by CSS frameworks: (Bootstrap, Material UI, Tailwind CSS).
 - 💬  Ask me about anything related to React.js/Javascript/ or Websites responsiveness.
 - 📫 You can approach me at: maryamtufail279@gmail.com or https://www.linkedin.com/in/maryamtufail
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam2506&layout=compact)](https://github.com/maryam2506/github-readme-stats)
-
-
 
 ### Tech Stack
 - 🛠 Lang & Framework: React, Javascript
 - ⛏ Interest: Build cool components using HTML/CSS
-
 
 ### 🛠️  Languages and Tools
 <div>
@@ -38,9 +33,7 @@
 <img alt="Node.js" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img alt="Gatsby" width="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png">
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50" >
-
 </div>
-
 
 <h3 align="center">
 Don't be a programmer, Be a problem solver.
